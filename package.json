@@ -1,0 +1,8 @@
+{
+  "name": "tribute-page",
+  "version": "1.0.0",
+  "description": "FCC Tribute Page",
+  "main": "index.js",
+  "repository": "git@github.com:sntwandy/FCC-Tribute-Page.git",
+  "license": "MIT"
+}
